@@ -1,0 +1,49 @@
+/*background*/
+body, html {
+	background-image: url(https://media.giphy.com/media/26xBt8K9im4LI2rnO/giphy.gif?response_id=59249db3dbc857cb7989c588);
+	height: 100%;
+	background-position: cover;
+	background-repeat: none;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	text-align: center;
+}
+
+#p1 {
+	color: black;
+}
+
+p {
+	text-align: center;
+	font-size: 20px;
+	color: black;
+}
+
+ul {
+	color: blue;
+	font-size: 20px;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	position: right;
+	color: grey;
+	letter-spacing: 12px;
+}
+
+a:hover {
+	color: white;
+}
+
+.par {
+	font-size: 16px;
+	color: white;
+}
+/*links to pages*/
+#links {
+	padding-top:25%;
+}

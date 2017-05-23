@@ -1,0 +1,48 @@
+/*custom CSS*/
+html {
+	height: 100%;
+}
+
+body {	
+	background: url("http://s.ngm.com/2015/07/orca-feeding/img/orca-feeding-opener-615.jpg");
+	height: 100%;
+	background-position: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	font-family: "Chewy";
+	color: rgba(255, 200, 200,0.6);
+}
+
+#content {
+	text-align: center;
+	padding: 5%;
+}
+
+h1 {
+	font-weight: 600;
+	font-size: 5em;
+}
+
+hr {
+	width: 500px;
+	border: 1px dashed grey;
+}
+
+img {
+	width: 300px;
+	height: 250px;
+}
+
+div {
+	background: none;
+	text-align: center;
+	padding: 0px;
+}
+
+
+button {
+	background:transparent;
+	padding: 0px;
+}
